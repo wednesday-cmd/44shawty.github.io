@@ -266,7 +266,7 @@ redirect("/forums", "Successfully!");
 						
 						<p class="buttons">
 							<input type="submit"  name="button" class="submit" value="Continue" style="font-size: 11px; font-weight: bold; height: 24px;" accesskey="s">
-                             <a>After buying please make a ticket in the "Loader And Credentials Request" Department aswell as proof of order to recieve your goods. <a href="https://support.gamesense.pw/" target="_blank">Make a Ticket.</a>
+                             <a>After buying please make a ticket in the "Loader And Credentials Request" Department aswell as proof of order to recieve your goods. <a href="https://support.44shawtyy.xyz/" target="_blank">Make a Ticket.</a>
 						</p>
 					</div>
 				</fieldset>

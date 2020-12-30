@@ -1,6 +1,6 @@
 <?php
 $sharexdir = ""; //This is your file dir, also the link..
-$domain_url = 'https://gamesense.pw/images/';
+$domain_url = 'https://44shawtyy.xyz/images/';
 $lengthofstring = 5; //Length of the file name
 
 function RandomString($length) {
